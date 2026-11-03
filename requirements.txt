@@ -1,0 +1,10 @@
+streamlit
+pandas
+langgraph
+langchain
+langchain-ollama
+autogen-agentchat
+autogen-ext[openai]
+mcp>=1.28,<2
+langchain-google-genai
+python-dotenv
